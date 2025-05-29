@@ -21,7 +21,6 @@ app.get('/', (req, res) => {
   res.send('API is working!');
 });
 
-// API routes
 app.use('/api/users', userRoutes);
 app.use('/api/quizzes', quizRoutes);
 app.use('/api/questions', questionRoutes);
