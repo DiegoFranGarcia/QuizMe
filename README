@@ -1,3 +1,14 @@
 use "npm run dev" to start server
 
-![App Screenshot](readme images/Home Page.png)
+
+### Home Page
+![Home Page](readme%20images/Home%20Page.png)
+
+### Create Quiz
+![Create Quiz](readme%20images/Create%20Quiz.png)
+
+### Take Quiz
+![Take Quiz](readme%20images/Take%20Quiz.png)
+
+### Results Page
+![Results](readme%20images/Results.png)
