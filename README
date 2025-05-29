@@ -1,12 +1,15 @@
 use "npm run dev" to start server
+use "npm start" to start frontend
+
 ### Home Page
-![Alt Text](readme-images/Home-Page.png?raw=true "Title")
+![Home Page](readme-images/Home-Page.png)
 
 ### Create Quiz
-![alt text](readme-images/Create%20Quiz.png)
+![Create Quiz](readme-images/Create-Quiz.png)
 
 ### Take Quiz
-![alt text](readme-images/Take%20Quiz.png)
+![Take Quiz](readme-images/Take-Quiz.png)
 
 ### Results Page
-![alt text](readme-images/Results.png)
+![Results](readme-images/Results.png)
+
