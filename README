@@ -1,15 +1,30 @@
 use "npm run dev" to start server
 use "npm start" to start frontend
 
-### Home Page
-![Home Page](readme-images/Home-Page.png)
+# Overview
+QuizMe is a MERN stack web application that allows users to create and delete multiple-choice quizzes to test themselves or others. Another key feature is the ability to see the results of pass quiz scores. The results will be displayed using bar graphs, showing the past attempts along with their scores.
 
-### Create Quiz
-![Create Quiz](readme-images/Create-Quiz.png)
+# Features
+- Create quizzes with questions and answer choices
+- Take quizzes and get scored
+- View past quiz results
+- Clean UI with styled-components
 
-### Take Quiz
-![Take Quiz](readme-images/Take-Quiz.png)
+# Technologies
+- React (Frontend)
+- Node.js + Express (Backend)
+- MongoDB + Mongoose (Database)
 
-### Results Page
-![Results](readme-images/Results.png)
+# How to Run 
+1. Navigate to the `backend` folder:
+    ```bash
+    cd backend
+    npm install
+    npm run dev
+2. Navigate to the `frontend` folder:
+    ```bash
+    cd frontend
+    npm install
+    npm start
+
 
