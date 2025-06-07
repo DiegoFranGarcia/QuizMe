@@ -1,3 +1,5 @@
+# Creator - Diego Garcia
+
 # Overview
 QuizMe is a MERN stack web application that allows users to create and delete multiple-choice quizzes to test themselves or others. Another key feature is the ability to see the results of pass quiz scores. The results will be displayed using bar graphs, showing the past attempts along with their scores.
 
